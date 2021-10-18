@@ -3,10 +3,6 @@ import React, { useState } from 'react';
 
 function Contact() {
 
-  
-  
-
-  
   return (
     <section id="contact" className="relative">
       {/*<h2 className="text">Contact Me.</h2>*/}
@@ -42,7 +38,6 @@ function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed text-yellow-400">+79771100314</p>
             </div>
           </div>
         </div>

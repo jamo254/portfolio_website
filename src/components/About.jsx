@@ -16,7 +16,7 @@ function About() {
               mobile and web applications <CodeIcon /></h4>
           </div>
           <a
-            href="https://github.com/jamo254"
+            href="#"
             target="_blank"
             className="mb-8 leading-relaxed  animate-pulse"
           >
@@ -37,7 +37,7 @@ function About() {
           <img id="image"
             className="object-cover object-center  rounded-t-full"
             alt="hero"
-            src="assets/coder.jpg"
+            src="assets/lapi.webp"
           />
         </div>
       </div>
