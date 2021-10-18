@@ -1,0 +1,28 @@
+#projects {
+  background: #FFAFBD;  /* fallback for old browsers */
+ background: -webkit-linear-gradient(to right, #ffc3a0, #FFAFBD);  /* Chrome 10-25, Safari 5.1-6 */
+ background: linear-gradient(to right, #ffc3a0, #FFAFBD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#projects h1.font-medium {
+   color: black;
+   font-weight: bold;
+   text-transform: capitalize;
+   text-emphasis: open triangle whitesmoke ;
+   text-emphasis-position: under;
+   font-style: initial;
+}
+
+#projects h1.font-medium:hover {
+   color: floralwhite;
+   cursor: pointer;
+   transition: background 0.2s ease-out;
+
+}
+
+img#image {
+   border:10px solid #F59E0B;
+   transition: ease-out;
+}
+
